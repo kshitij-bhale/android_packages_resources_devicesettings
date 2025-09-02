@@ -137,11 +137,11 @@
 
      <!-- Fingerprint gesture -->
     <string name="gesture_fp">Fingerprint gestures</string>
-    <string name="chop_chop_gesture_summary">Enable double-tap fingerprint gesture</string>
+<!--     <string name="chop_chop_gesture_summary">Enable double-tap fingerprint gesture</string> -->
 
     <!-- Fingerprint gesture list -->
     <string name="gesture_fp_action">Fingerprint gestures list</string>
-    <string name="chop_chop_gesture_summary">What happens when fingerprint gesture is enabled</string>
+<!--     <string name="chop_chop_gesture_summary">What happens when fingerprint gesture is enabled</string> -->
 
     <!-- Action toggles -->
     <string name="action_none">Disable</string>
