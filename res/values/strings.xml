@@ -136,11 +136,11 @@
     <string name="lift_to_silence_summary">Lift the phone to silence incoming calls. It only works when your phone starts flat</string>
 
      <!-- Fingerprint gesture -->
-    <string name="gesture_fp">Fingerprint gestures</string>
+    <string name="fp_gesture_title">Fingerprint gestures</string>
 <!--     <string name="chop_chop_gesture_summary">Enable double-tap fingerprint gesture</string> -->
 
     <!-- Fingerprint gesture list -->
-    <string name="gesture_fp_action">Fingerprint gestures list</string>
+    <string name="gesture_fp_action_title">Fingerprint gestures list</string>
 <!--     <string name="chop_chop_gesture_summary">What happens when fingerprint gesture is enabled</string> -->
 
     <!-- Action toggles -->
