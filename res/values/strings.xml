@@ -135,10 +135,10 @@
     <string name="lift_to_silence_title">Pick up to stop ringing</string>
     <string name="lift_to_silence_summary">Lift the phone to silence incoming calls. It only works when your phone starts flat</string>
 
-     <!-- Fingerprint gesture -->
+<!--      Fingerprint gesture
      <string name="fp_gesture_title">Fingerprint gesture</string>
      <string name="fp_gesture_summary">Double tap the fingerprint scanner to perform an action</string>
-     <string name="fp_gesture_action_title">Action</string>
+     <string name="fp_gesture_action_title">Action</string> -->
 
     <!-- Action toggles -->
     <string name="action_none">Disable</string>
